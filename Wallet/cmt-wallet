@@ -1,0 +1,19 @@
+t-rex_nguyenhoai1084
+pas_nguyenhoai0910
+pass_nguyenhoai091098
+
+cmt-wallet:begin topic diagram mass lake near stem seek ignore orphan edit cash
+01699799986
+{	
+	718e137d1002eb410968128cffb598900f515eb8a46476af31e8f29820970ba1
+	{"address":"93ac3be108da5956dbbd1551ee1bd291fbc70c6f","id":"104e361f-9f7e-4d17-8691-8e9074af7395","version":3,"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"49432baaa582d4530cc0f9276ca6a68f"},"ciphertext":"e7b9617020624fef746cc2a5a28995d098b53a89faa5bedd0efdfcaadd4678bd","kdf":"scrypt","kdfparams":{"dklen":32,"n":4096,"p":6,"r":8,"salt":"a99970ec87c91205d7e19dde697b0795a59b4c4cf8f47b231e29bbf557fe23cc"},"mac":"727c9919ac022c807ecb238fd54b98421e5ffb9739e7bf064bd637dafd252b12"}}
+	0x93ac3be108da5956dbbd1551ee1bd291fbc70c6f
+}
+
+cmt-wallet:
+NguyenHoai0910
+{
+	c7614a06ff056ab8012530da5160b4bd8578f60288752f1f5a8f376d95e139e0
+	{"address":"0acbf32ee1082e1c945b018cb9c2a1e577cbcec4","id":"0479f21b-c1e0-4dec-a77d-e7805fa29313","version":3,"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"0223d878d8e6bee323bb1c18f5e5bd94"},"ciphertext":"a4ac77dd534bb1b52c2fb15daedf5ab79e7f251794be5125f8d530f45c7a131b","kdf":"scrypt","kdfparams":{"dklen":32,"n":4096,"p":6,"r":8,"salt":"3d2ed74d6fbd25e22ce0acbe6eed1bcba2037208a24e413c9ef5ac16330f8813"},"mac":"40278116a2814b3a3f5e6c48ae238dc18143eeb86284658e915977d5ab9dbcd2"}}
+	0x0acbf32ee1082e1c945b018cb9c2a1e577cbcec4
+}

@@ -1,2 +1,0 @@
-# My-Job
-cong viec
